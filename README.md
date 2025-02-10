@@ -10,6 +10,6 @@
 
 ```
 
-[Surf page repository](vika988-cell.github.io/surf_page/)
+[Surf page repository](https://vika988-cell.github.io/surf_page/)
 
 ![image](images/rev-3.jpg)
